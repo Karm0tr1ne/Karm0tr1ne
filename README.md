@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=karm0tr1ne&theme=vue&hide_border=false&include_all_commits=true&count_private=true">
+</a>
 
-<!--
-**Karm0tr1ne/Karm0tr1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Karmotrine.
 
-Here are some ideas to get you started:
+> Learning Graphics & Game Programming Recently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Unity](http://img.shields.io/badge/-Unity-feefff?style=flat-square&logo=unity&logoColor=000) ![Vulkan](http://img.shields.io/badge/-Vulkan-ac162c?style=flat-square&logo=vulkan&logoColor=fff) ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=fff) ![C++](http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=cplusplus&logoColor=fff) ![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff) ![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff) 
+
+
+- 😘 A **UESTC** student
+- 😝 Simulation & Research Intern in **Taichi Graphics** currently
+- 😍 Welcome to my Github website!
+
+<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
+
+## Visit My Website
+[![](https://img.shields.io/badge/-karm0tr1ne.github.io-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://karm0tr1ne.github.io)
+[![](https://img.shields.io/badge/-github.com/karm0tr1ne-000000?style=flat-square&logo=github&logoColor=fff)](https://github.com/karm0tr1ne)
