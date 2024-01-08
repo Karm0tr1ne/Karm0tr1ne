@@ -15,7 +15,7 @@
 
 
 - 😘 A **UESTC** student
-- 😝 Simulation & Research Intern in **Taichi Graphics** currently
+- 😝 Simulation & Research Intern in **Taichi Graphics**
 - 😍 Welcome to my Github website!
 
 <a href="https://github.com/taichi-dev/soft2d-for-unity">
