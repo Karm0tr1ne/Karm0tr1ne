@@ -14,8 +14,7 @@
 ![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff) 
 
 
-- 😘 A **UESTC** student
-- 😝 Simulation & Research Intern in **Taichi Graphics**
+- 😘 A **HKU** student
 - 😍 Welcome to my Github website!
 
 <a href="https://github.com/taichi-dev/soft2d-for-unity">
