@@ -19,5 +19,3 @@
 <a href="https://github.com/taichi-dev/soft2d-for-unity">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=taichi-dev&repo=soft2d-for-unity&show_owner=false" />
 </a>
-
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
